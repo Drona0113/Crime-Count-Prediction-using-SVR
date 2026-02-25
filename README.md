@@ -62,7 +62,7 @@ streamlit run visualization.py
 #### Usable Links
 
 1. **DataSet**
-    * [Kaggle: Indian Crimes Dataset](https://www.kaggle.com/datasets/sudhanvahg/indian-crimes-dataset)
+    * NCRB Statistics
 
 2. **Indian GeoJSON Maps:**
     * [GeoJson - 1](https://github.com/geohacker/india/blob/master/state/india_state.geojson)
